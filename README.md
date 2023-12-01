@@ -3,6 +3,7 @@ Some test with data matrix recognize
 
 # Mission: 
 Recognizing datamatrix codes from bottles moving along the conveyor
+
 The camera stands statically. The lens is aimed at the conveyor. Bottles with a code glued to them move along the conveyor at different speeds at different times. The task is to recognize the bottle, first check whether there is a sticker with a code at all, and then check the code itself. If everything is in order, the bottle moves on. If not, the bottle must be removed from the tape.
 
 # Useful links:
